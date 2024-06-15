@@ -1,8 +1,13 @@
 fileFormatVersion: 2
 guid: 98b05e964f81cab488cfd24ac2373f0c
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - elevator: {fileID: 400050, guid: 004d4e6ea868951409551976c7faaefe, type: 3}
+  - hallFrame: {fileID: 400070, guid: 004d4e6ea868951409551976c7faaefe, type: 3}
+  - elevator_red: {fileID: 400050, guid: 004d4e6ea868951409551976c7faaefe, type: 3}
+  - hallFrame_red: {fileID: 400070, guid: 004d4e6ea868951409551976c7faaefe, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

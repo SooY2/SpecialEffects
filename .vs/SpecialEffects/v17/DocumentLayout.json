@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jiwon\\Desktop\\4-2\\vfx\\4\\SpecialEffects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24F2CF-9F47-1C58-B354-FE1B98A842F3}|Assembly-CSharp.csproj|C:\\Users\\Jiwon\\Desktop\\4-2\\vfx\\4\\SpecialEffects\\assets\\easy elevator model v2\\info.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA24F2CF-9F47-1C58-B354-FE1B98A842F3}|Assembly-CSharp.csproj|solutionrelative:assets\\easy elevator model v2\\info.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24F2CF-9F47-1C58-B354-FE1B98A842F3}|Assembly-CSharp.csproj|c:\\users\\jiwon\\desktop\\4-2\\vfx\\4\\specialeffects\\assets\\easy elevator model v2\\demo scene\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24F2CF-9F47-1C58-B354-FE1B98A842F3}|Assembly-CSharp.csproj|solutionrelative:assets\\easy elevator model v2\\demo scene\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "demo.cs",
+              "DocumentMoniker": "C:\\Users\\Jiwon\\Desktop\\4-2\\vfx\\4\\SpecialEffects\\Assets\\Easy Elevator Model V2\\Demo Scene\\demo.cs",
+              "RelativeDocumentMoniker": "Assets\\Easy Elevator Model V2\\Demo Scene\\demo.cs",
+              "ToolTip": "C:\\Users\\Jiwon\\Desktop\\4-2\\vfx\\4\\SpecialEffects\\Assets\\Easy Elevator Model V2\\Demo Scene\\demo.cs",
+              "RelativeToolTip": "Assets\\Easy Elevator Model V2\\Demo Scene\\demo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:42:03.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "info.txt",
+              "DocumentMoniker": "C:\\Users\\Jiwon\\Desktop\\4-2\\vfx\\4\\SpecialEffects\\Assets\\Easy Elevator Model V2\\info.txt",
+              "RelativeDocumentMoniker": "Assets\\Easy Elevator Model V2\\info.txt",
+              "ToolTip": "C:\\Users\\Jiwon\\Desktop\\4-2\\vfx\\4\\SpecialEffects\\Assets\\Easy Elevator Model V2\\info.txt",
+              "RelativeToolTip": "Assets\\Easy Elevator Model V2\\info.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-15T12:42:01.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
