@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{31EE2EE4-4EFF-F34C-E8AC-68C753E01B61}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/CameraController.cs">
+    <Files>
+      <File FileName="Assets/Scenes/CameraController.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="89749f1d-86a9-4f15-8861-22678af698e9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
