@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 6616129}
   - component: {fileID: 6616128}
   - component: {fileID: 6616127}
+  - component: {fileID: 6616130}
   m_Layer: 0
   m_Name: LeftCamera
   m_TagString: Untagged
@@ -215,6 +216,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1165612376}
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
+--- !u!114 &6616130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6616126}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 481e6d04f3ac35f44ba89c43c18af58c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  amplitude: 0.005
+  frequency: 2
 --- !u!1001 &576525994
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -483,6 +498,7 @@ GameObject:
   - component: {fileID: 963194228}
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
+  - component: {fileID: 963194229}
   m_Layer: 0
   m_Name: CenterCamera
   m_TagString: MainCamera
@@ -564,6 +580,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1165612376}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &963194229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 481e6d04f3ac35f44ba89c43c18af58c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  amplitude: 0.005
+  frequency: 2
 --- !u!1 &1165612374
 GameObject:
   m_ObjectHideFlags: 0
@@ -623,6 +653,7 @@ GameObject:
   - component: {fileID: 1192768239}
   - component: {fileID: 1192768238}
   - component: {fileID: 1192768237}
+  - component: {fileID: 1192768240}
   m_Layer: 0
   m_Name: RightCamera
   m_TagString: Untagged
@@ -704,6 +735,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1165612376}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!114 &1192768240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1192768236}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 481e6d04f3ac35f44ba89c43c18af58c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  amplitude: 0.005
+  frequency: 2
 --- !u!1001 &1389221086
 PrefabInstance:
   m_ObjectHideFlags: 0
